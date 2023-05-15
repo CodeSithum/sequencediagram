@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T13:14:11.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="Wn-TJhMfG3hQQW4lP0FM" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T23:43:25.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="QU-GGafS1wBHPLWejgeE" version="21.3.2" type="github">
   <diagram name="Page-1" id="Bzcg76JZAYMFacvBCj7k">
     <mxGraphModel dx="954" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -226,41 +226,44 @@
             <mxPoint x="529.5" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9peqqxJoQd_XAFCV2iIx-1" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="9peqqxJoQd_XAFCV2iIx-1" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="290" y="1010" as="sourcePoint" />
             <mxPoint x="530" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9peqqxJoQd_XAFCV2iIx-2" value="&lt;div&gt;Send request to update reservation &lt;br&gt;&lt;/div&gt;&lt;div&gt;paid and confirm&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9peqqxJoQd_XAFCV2iIx-2" value="&lt;div&gt;Send request to update reservation &lt;br&gt;&lt;/div&gt;&lt;div&gt;paid and confirm&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="299.5" y="970" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9peqqxJoQd_XAFCV2iIx-3" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1.004;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="9peqqxJoQd_XAFCV2iIx-3" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1.004;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="539" y="1050" as="sourcePoint" />
             <mxPoint x="780" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9peqqxJoQd_XAFCV2iIx-4" value="Update reservation paid and confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9peqqxJoQd_XAFCV2iIx-4" value="Update reservation paid and confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="555" y="1020" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9peqqxJoQd_XAFCV2iIx-6" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1.004;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="9peqqxJoQd_XAFCV2iIx-6" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1.004;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="780" y="1100" as="sourcePoint" />
             <mxPoint x="539" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9peqqxJoQd_XAFCV2iIx-7" value="Return reservation paid and confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9peqqxJoQd_XAFCV2iIx-7" value="Return reservation paid and confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="555" y="1070" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9peqqxJoQd_XAFCV2iIx-8" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1.004;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="9peqqxJoQd_XAFCV2iIx-8" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1.004;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="531" y="1150" as="sourcePoint" />
             <mxPoint x="290" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9peqqxJoQd_XAFCV2iIx-9" value="Return reservation paid and confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="9peqqxJoQd_XAFCV2iIx-9" value="Return reservation paid and confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="1120" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NlwhqDbu7RY9LVvIaLsD-1" value="Room reservation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
