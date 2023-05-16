@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T13:30:57.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="qEJrVH4e-nkJKkdgV-B3" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T00:17:00.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="PWfsLp1-jHab-5bnes1W" version="21.3.2" type="github">
   <diagram name="Page-1" id="ZU61pW85Vs68K8lzghGT">
     <mxGraphModel dx="954" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -660,6 +660,9 @@
         </mxCell>
         <mxCell id="4tsxPiN9Ej_s7Ec1uIhf-150" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="850" y="500" width="10" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="Xq4jzpdKU6QALte5hg_w-1" value="Staff salary management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="-1700" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
