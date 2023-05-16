@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T13:53:39.341Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="barSExb2uRckRIWOR2zz" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T00:25:09.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="b27CT5aerxL2gL0yi3ot" version="21.3.2" type="github">
   <diagram name="Page-1" id="-goPwTN756h73ukjILad">
     <mxGraphModel dx="954" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -211,14 +211,17 @@
         <mxCell id="7k01nNC0SqOBBTKbioc5-22" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-rust&quot;&gt;Sends payment confirmation&lt;/code&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="730" y="778" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2-URATm6lnxha30E7RNb-1" value="&lt;div&gt;Show confirmation and paid message&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2-URATm6lnxha30E7RNb-1" value="&lt;div&gt;Show confirmation and paid message&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="1020" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2-URATm6lnxha30E7RNb-3" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1.01;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="2-URATm6lnxha30E7RNb-3" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;entryX=1.01;entryY=0.886;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="310" y="1050" as="sourcePoint" />
             <mxPoint x="98" y="1050" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6QI0Y8ETywytJewcwX09-1" value="Tour reservation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
