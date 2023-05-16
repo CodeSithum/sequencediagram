@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T13:28:51.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="7qGR7vNEz079z_mduERF" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-16T00:14:12.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="2Wgx2SVXzupBdyyj03wK" version="21.3.2" type="github">
   <diagram name="Page-1" id="1pHW5grbn4J9oQGV5NwZ">
     <mxGraphModel dx="954" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -318,6 +318,9 @@
         </mxCell>
         <mxCell id="GPDhB53lDU0txRjYz8F6-71" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="620" y="310" width="10" height="1340" as="geometry" />
+        </mxCell>
+        <mxCell id="B_0pui-IGFLWrcuSk8Ia-1" value="Room booking management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="265" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
