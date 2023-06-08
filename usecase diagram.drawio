@@ -1,9 +1,102 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T02:42:29.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.3.7" etag="HYXy9k8Lw1l7foRDxJU8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T03:18:58.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="BstL42_pk30Q_5jWdJ55" version="21.3.7" type="github">
   <diagram name="Page-1" id="8n2fAxBShtkgeZEnvYDV">
-    <mxGraphModel>
+    <mxGraphModel dx="1122" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-rtBCofy2EuOzevjXCgD-1" value="&lt;div&gt;create user account&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-2" value="&lt;div&gt;login&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-3" value="verify password" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-4" value="display error message" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-5" value="view availability" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-6" value="reserve room" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-7" value="reserve event" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-8" value="reserve resturent" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-9" value="reserve tour package" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-10" value="manage and update room" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-11" value="view customer status" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-12" value="check availability" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-14" value="cancel booking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-15" value="verify customer information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-16" value="generate cancellation recipt" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-17" value="confirm booking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-19" value="view reservation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-20" value="view cancellation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-21" value="manage hotel details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-22" value="modify reservation" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-23" value="view hotel details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-24" value="generate financial reports" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-25" value="check in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-26" value="check out" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-27" value="manage inventory" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2000" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-28" value="manage room availability" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-29" value="manage staff" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-30" value="generate reports" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2330" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-31" value="manage payments" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-32" value="manage customer details" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2550" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-rtBCofy2EuOzevjXCgD-33" value="manage user accounts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2660" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
